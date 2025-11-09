@@ -5,9 +5,9 @@ This repository contains a collection of small data visualization practices of u
 ---
 ## Course Information
 
-This project was created as part of the **[Course Name]** offered by **[Institution or Platform]**.
+This project was created as part of the **Data Visualization with Python** offered by **Trung Tâm Tin Học – HCM University of Science**.
 
-- Duration: [Month Year – Month Year]
+- Duration: 2025
 - Topics covered: Data visualization, Pandas, Matplotlib, Plotly, Jupyter Notebooks
 ---
 
@@ -51,16 +51,25 @@ Reading-and-Visualizing-Data-Pracitices/
 
 ## Projects Overview
 
-### `movies/`
+### `Movies Data/`
 - **Notebook**: `movies.ipynb`
-- **Data**: CSV files in `movie_data/`
+- **Data**: CSV files in `movies_data/`
 - **Focus**: Visualizing movie trends, ratings, box office performance, and genre distributions.
 
-### `museums/`
-- **Notebook**: `museums.ipynb`
+### `Museum Visitors/`
+- **Notebook**: `Museum.ipynb`
 - **Data**: CSV files in `museum_data/`
-- **Focus**: Analyzing visitor statistics across museums, seasonal patterns, and comparative attendance.
+- **Focus**: Analyzing seasonal attendance patterns across museums.
 
+### `Stock Trading/`
+- **Notebook**: `Stock_Trading.ipynb`
+- **Data**: CSV files in `stock_trading_data/`
+- **Focus**: Analyzing company performance and stock trends.
+  
+- ### `museums/`
+- **Notebook**: `Weather.ipynb`
+- **Data**: CSV files in `Weather_Data/`
+- **Focus**: Analyzing temperature, humidity, visibility, and precipitation trends.
 ---
 
 ## Technologies Used
